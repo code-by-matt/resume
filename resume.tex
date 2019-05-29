@@ -1,0 +1,83 @@
+\documentclass[11pt]{article}
+
+% helpful packages
+\usepackage{geometry}
+\usepackage{indentfirst}
+\usepackage{enumitem}
+
+% global formatting tweaks
+\pagestyle{empty}
+\geometry{margin=0.5in}
+\setlength\parindent{9pt}
+\setlist{nosep}
+\renewcommand\labelitemi{--}
+
+% new commands!
+\newcommand{\name}[1]{\begin{center}\section*{\huge #1}\end{center}}
+\newcommand{\topinfo}[1]{\begin{center}\vspace{-0.2cm}#1\vspace{-0.2cm}\end{center}}
+\newcommand{\resumesection}[1]{\vspace{-0.2cm}\section*{#1}\vspace{-0.2cm}\hrule\vspace{0.2cm}}
+
+
+
+\begin{document}
+
+\name{Your Name}
+\topinfo{github.com/code-by-matt}
+\topinfo{my4@princeton.edu}
+\topinfo{609-216-0038}
+
+\resumesection{Education}
+
+\textbf{Princeton University}, Princeton, NJ \hfill September 2017--June 2021 (Expected)
+\begin{itemize}
+	\item A.B. in Mathematics, 3.8 GPA.
+	\item Coursework includes Algorithms and Data Structures, Probability and Stochastic Systems, Linear Algebra, Combinatorics, and Real Analysis.
+\end{itemize}
+
+\resumesection{Projects}
+
+\textbf{Thue-Morse Connect Four}, code-by-matt.github.io/connect4 \hfill October 2018
+\begin{itemize}
+	\item Front-end web app that plays a variant of Connect Four designed to eliminate the game's first player advantage by using a turn system based on the Thue-Morse sequence.
+	\item Built in Brackets using HTML, CSS, and JavaScript.
+	\item Explored expanding functionality using Google Firebase during HackPrinceton Fall 2018.
+\end{itemize}
+
+\resumesection{Experience}
+
+\textbf{Algebraic Geometry Research}, Princeton University \hfill June 2019--Present
+\begin{itemize}
+	\item Study Shafarevich's \textit{Basic Algebraic Geometry 1} under Professor J\'{a}nos Koll\'{a}r.
+	\item Meet weekly with Prof. Koll\'{a}r as part of a seven-person research group.
+\end{itemize}
+
+\textbf{Course Assistant}, Princeton University \hfill September 2018--Present
+\begin{itemize}
+	\item Lead weekly problem sessions for about 50 students in Real Analysis and Linear Algebra.
+	\item Answer students' questions and guide students through homework problems.
+\end{itemize}
+
+\resumesection{Activities}
+
+\textbf{Author in Princeton Undergraduate Research Journal}, shortened link pls \hfill Spring 2019
+\begin{itemize}
+	\item Presented a narrative explanation of Carl Friedrich Gauss's discovery that the regular seventeen-sided polygon is constructible using a compass and straightedge.
+	\item One of five papers selected for publication out of 23 total submissions.
+\end{itemize}
+
+\textbf{Editor of Profiles in Entrepreneurship}, medium.com/profiles-in-entrepreneurship \hfill October 2018--Present
+\begin{itemize}
+	\item Manage an intercollegiate publication that provides student entrepreneurs actionable advice from startup founders and VCs.
+	\item Add some numbers here.
+\end{itemize}
+
+\resumesection{Skills}
+
+\textbf{Princeton University} \hfill September 2017--June 2021 (expected)
+\begin{itemize}
+	\item A.B. in Mathematics, 3.8 GPA.
+	\item Coursework includes Algorithms and Data Structures, Probability and Stochastic Systems, Linear Algebra, Combinatorics, and Real Analysis.
+\end{itemize}
+
+
+\end{document}
