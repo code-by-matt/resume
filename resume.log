@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  29 MAY 2019 18:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  29 MAY 2019 20:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -122,7 +122,7 @@ LaTeX Font Info:    ... okay on input line 22.
 Here is how much of TeX's memory you used:
  1017 strings out of 492995
  14987 string characters out of 6132704
- 79676 words of memory out of 5000000
+ 80676 words of memory out of 5000000
  4624 multiletter control sequences out of 15000+600000
  5506 words of font info for 20 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -132,7 +132,7 @@ Here is how much of TeX's memory you used:
 cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmti10.pfb>
-Output written on resume.pdf (1 page, 63435 bytes).
+Output written on resume.pdf (1 page, 64534 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream
