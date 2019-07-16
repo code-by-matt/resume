@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  16 JUL 2019 14:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  16 JUL 2019 15:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -65,7 +65,7 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box26
 \enitdp@description=\count90
 )
-No file matthew-yuan-resume.aux.
+(./matthew-yuan-resume.aux)
 \openout1 = `matthew-yuan-resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -80,6 +80,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -125,8 +126,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./matthew-yuan-resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1032 strings out of 492995
- 15248 string characters out of 6132704
+ 1034 strings out of 492995
+ 15296 string characters out of 6132704
  81676 words of memory out of 5000000
  4635 multiletter control sequences out of 15000+600000
  7945 words of font info for 28 fonts, out of 8000000 for 9000
@@ -138,7 +139,7 @@ lic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmti10.pfb>
-Output written on matthew-yuan-resume.pdf (1 page, 74011 bytes).
+Output written on matthew-yuan-resume.pdf (1 page, 74313 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
