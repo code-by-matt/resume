@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  22 APR 2020 20:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  22 APR 2020 20:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -246,9 +246,9 @@ LaTeX Info: Redefining \nameref on input line 23.
 \openout3 = `matthew-yuan-resume.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
+(Font)              <7> on input line 93.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 48.
+(Font)              <5> on input line 93.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
  [1
 
